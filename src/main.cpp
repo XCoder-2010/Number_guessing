@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cstdlib>   // for rand() and srand()
 #include <ctime>     // for time()
+#include "game.h"   // ← pull in all our helper functions
 
 int main() {
 
